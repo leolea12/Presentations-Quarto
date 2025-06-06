@@ -1,0 +1,36 @@
+---
+title: "ELADOM"
+subtitle: ""
+author: "Léonard Heinry"
+format:
+  revealjs:
+    self-contained: true
+    theme: default
+    fontsize: "20pt"
+    slide-number: true
+    toc: true
+    toc-depth: 2
+    toc-title: "Plan de la présentation"
+    progress: true
+    transition: fade
+    logo: Images/Logo_Cohabys.png
+    footer: "Cohabys corporation"
+    title-slide-attributes: 
+      data-background-image: "Images/Background.jpg"
+    multiplex: true
+---
+
+
+```{r}
+#| label: setup
+#| echo: false
+#| message: false
+library(leaflet)
+library(leafpop)
+library(tidyverse)
+library(readxl)
+
+theme_set(theme_bw())
+```
+
+## Projet ELADOM {background-image="Images/Background.jpg" auto-animate=true}
