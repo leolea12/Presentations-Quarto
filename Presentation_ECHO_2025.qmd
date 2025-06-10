@@ -809,6 +809,8 @@ Avancées technologiques (Dtags). Expérimentations en conditions contrôlées (
 :::
 ::::
 
+<br><br>
+
 ```{r}
 #| echo: false
 #| results: asis
@@ -888,6 +890,79 @@ print(
 )
 cat('</div>')
 ```
+
+
+# L'analyse des enregistrements acoustiques sur SEM-REV
+
+:::: {.absolute top="0" left="100%" background-image="Images/Background.jpg"}
+::: sectionhead
+[Contexte Objectifs]{style="opacity:0.25"} Méthodes [Résultats Conclusion]{style="opacity:0.25"}
+:::
+::::
+
+------------------------------------------------------------------------
+
+## {background-image="Images/Background.jpg"}
+
+:::: {.absolute top="0" left="110%"}
+::: sectionhead
+[Contexte Objectifs]{style="opacity:0.25"} Méthodes [Résultats Conclusion]{style="opacity:0.25"}
+:::
+::::
+
+Établir des corrélations entre les niveaux de bruits générés par le chantier et les comportementes enregistrés des individus:
+
+<br>
+
+:::: incremental
+- Sifflements 
+- Clics
+- Buzz
+::::
+
+![](Images/Marsouin.jpg){.absolute .fragment top="400" left="0" width="350" height="250"}
+
+::: {.fragment style="position:absolute; top:375px; left:25px; width:250px; text-align:center; font-size: 14px; font-style: italic;"}
+Marsouin commun 
+:::
+
+![](Images/Dauphin-commun.jpg){.absolute .fragment top="400" left="350" width="350" height="250"}
+
+::: {.fragment style="position:absolute; top:375px; left:360px; width:250px; text-align:center; font-size: 14px; font-style: italic;"}
+Dauphin commun
+:::
+
+![](Images/Grand-dauphin.png){.absolute .fragment top="400" left="700" width="350" height="250"}
+
+::: {.fragment style="position:absolute; top:375px; left:725px; width:250px; text-align:center; font-size: 14px; font-style: italic;"}
+grand dauphin
+:::
+
+------------------------------------------------------------------------
+
+## {background-image="Images/Background.jpg"}
+
+:::: {.absolute top="0" left="110%"}
+::: sectionhead
+[Contexte Objectifs]{style="opacity:0.25"} Méthodes [Résultats Conclusion]{style="opacity:0.25"}
+:::
+::::
+
+Au delà des aspects auditifs:
+
+:::: incremental 
+- Temps
+- Espace
+- Spectre
+::::
+
+:::: {.fragment}
+Inclure ces seuils de dérangement dans une méthodologie plus large qui permette d'évaluer le risque de manière globale sur la durée d'un chantier
+::::
+
+<br>
+
+![](Images/Pression.jpg){.absolute .fragment top="325" left="225" width="650" height="350"}
 
 ------------------------------------------------------------------------
 
